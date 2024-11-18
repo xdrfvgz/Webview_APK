@@ -18,7 +18,7 @@ Follow these instructions to fork the repository, make custom edits, and build y
 
 ### 3. Edit the URL
 
-- Open `MainActivity.java` (or `MainActivity.kt` if written in Kotlin).
+- Open `MainActivity.java`.
 - Change the URL in the code to point to the web address you want the app to display.
 
 ### 4. Trigger GitHub Actions for Build Process
