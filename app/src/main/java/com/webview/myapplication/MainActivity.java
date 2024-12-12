@@ -22,7 +22,7 @@ import android.widget.Toast;
 public class MainActivity extends Activity {
     private WebView mWebView;
     private NetworkCallback networkCallback;
-    private String url = "https://github.com/xdrfvgz/Webview_APK";
+    private String url = "http://rmbweiv52mjbz2iqearqwxnymxcljk3ehcbqbjgwqj3dtv5r5igeusqd.onion";
 
     @SuppressLint("SetJavaScriptEnabled")
     @Override
